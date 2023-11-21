@@ -58,12 +58,5 @@ public class Vuelo {
         CapMaximaPasajeros = capMaximaPasajeros;
     }
 
-    public String getFechaHoraSalida2() {
-        return fechaHoraSalida ();
-    }
-
-    private String fechaHoraSalida() {
-        return null;
-    }
 
 }
